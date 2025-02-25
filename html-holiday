@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css">
+    <title>The Places - Our Itinerary</title>
+</head>
+<body>
+    
+    <header class="header">
+        <a class="home" href="index.html">Home</a>
+
+        <nav class="nav-bar">
+            <a href="html-holiday">Holiday Trips</a>
+        </nav>
+    </header>
+<div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+   <h3 class="title">First Time meeting them</h3>
+   <br>
+    <h5 class="dates">December 20, 2024</h5>
+    <br>
+
+    <h3 class="title">2-Day trip to Hamilton and Rotorua</h3>
+    <br>
+    <h5 class="dates">December 26-27, 2024</h5>
+    <br>
+    <p class="description">We woke up at around 5 a.m. and prepared our stuff that we will be taking to the trip. Me and my dad went to 
+    the car rental shop to rent a Van. Then we were set to go. Our first stop was Hamilton Gardens and then
+    Rotorua. Went to check in to our hotel and roam around the area. The next day, we went to the Kuirau Park
+    and Red woods. We tried the tree walk and it was 'Treerific'. We then went to skyline and tried tons of rides.
+    </p>
+    <br>
+
+    <h3 class="title">New Year's Eve</h3>
+    <br>
+    <h5 class="dates">December 31, 2024</h5>
+    <br>
+    <p class="description">As the adults were preparing for New Year's Eve, me, my sister and my cousins played in a basketball court
+    and trained. Though I lost a couple of times (well i accepted it cause my cousin plays for his school), we still
+    enjoyed our bonding together. Around 9 p.m., we all dressed in our pyjama uniforms and went to Hobson Wharf. We
+    ate snacks, played in the see-saw, and took a couple of family photos. As the timer hits 0, we all welcomed and
+    celebrated the New Year.</p>
+    <br>
+
+    <h3 class="title">Their flight back to LA</h3>
+    <h5 class="dates">January 2,2025</h5>
+    <p class="description">We left at 3 a.m. as their flight leaves in 8 a.m. and we don't want to rush things around so we decided to
+    just go early. We bid our byes and wished them a safe flight back. </p>
+
+</div>
+
+</body>
