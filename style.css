@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Cute+Font&display=swap");
+
 .slider {
     position: relative;
     width: 100%;
@@ -27,7 +29,6 @@ img.displaySlide{
 .next{
     right: 0;
 }
-@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Mono:ital,wght@0,200..800;1,200..800&family=Cute+Font&display=swap");
 * {
     margin: 0;
     padding: 0;
@@ -42,26 +43,26 @@ img.displaySlide{
     padding: 20px 100px;
     background: #d3e1ac;
     display: flex;
-    justify-content:space-between;
+    justify-content:space-evenly;
     align-items: center;
     z-index: 100;
 }
-.home {
-    font-size: 32px;
-    color: black;
-    text-decoration: none;
-    font-weight: 700;
+.nav-bar {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
 }
 .nav-bar a {
     font-size: 32px;
     color: black;
     font-weight: 700;
     text-decoration: none;
+    margin: 1%;
+    border-color: white;
 }
-.home:hover {
-    text-decoration: underline;
-}
-.nav-bar:hover {
+.nav-bar a:hover {
     text-decoration: underline;
 }
 .title {
